@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hey,%20I'm%20[YourName]%20👋&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20JavaScript%20Engineer&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hey,%20I'm%20[Opu Pal ]%20👋&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20JavaScript%20Engineer&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 </div>
 
@@ -18,7 +18,7 @@
 
 ```ts
 const dev = {
-  name:     "[YourName]",
+  name:     "[Opu Pal ]",
   role:     "Full-Stack JavaScript Engineer",
   stack:    "MERN + Next.js",
   location: "🌍 [Your City]",
