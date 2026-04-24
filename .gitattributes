@@ -11,3 +11,4 @@ vendor/ linguist-vendored
 # If Hack files exist
 *.hack linguist-vendored
 *.hh linguist-vendored
+*.hack linguist-detectable=false
