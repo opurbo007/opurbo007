@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hey,%20I'm%20[Opu Pal ]%20👋&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20JavaScript%20Engineer&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hey,%20I'm%20Opu Pal%20👋&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20JavaScript%20Engineer&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 </div>
 
@@ -18,10 +18,10 @@
 
 ```ts
 const dev = {
-  name:     "[Opu Pal ]",
-  role:     "Full-Stack JavaScript Engineer",
-  stack:    "MERN + Next.js",
-  location: "🌍 [Your City]",
+  name:     "Opu Pal",
+  role:     "Full-Stack Software Developer",
+  stack:    ["MERN , "Next.js" , "Electron"],
+  location: "🌍 Dhaka",
   focus:    ["Scalable APIs", "Modern UIs", "DX Tooling"],
   database: ["MongoDB", "PostgreSQL"],
   status:   "Open to opportunities 🟢",
