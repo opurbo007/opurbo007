@@ -19,7 +19,7 @@
 ```ts
 const mySelf = {
   name: "Opu Pal",
-  role: "Full-Stack Software Developer",
+  role: "Full-Stack Software Engineer",
   stack: ["MERN", "Next.js", "Electron"],
   location: "🌍 Dhaka",
   focus: ["Scalable APIs", "Modern UIs", "DX Tooling"],
