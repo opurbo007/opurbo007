@@ -84,15 +84,22 @@ const mySelf = {
 
 ---
 
+
 ## 🔥 Featured Projects
 
-<div align="center">
+### 🎯 Prize Bond Checker
+A fast and simple web app to check prize bond results with a clean UI and optimized search.
 
-[![Card](https://github-readme-stats.vercel.app/api/pin/?username=opurbo007&repo=prize-bond-checker&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA)](https://github.com/opurbo007/prize-bond-checker)
+**Tech:** Next.js, PostgreSQL  
+🔗 https://github.com/opurbo007/prize-bond-checker
 
-[![Card](https://github-readme-stats.vercel.app/api/pin/?username=opurbo007&repo=Finance-tracker&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA)](https://github.com/opurbo007/Finance-tracker)
+---
 
-</div>
+### 💰 Finance Tracker
+A full-stack personal finance management system with income, expense, and account tracking.
+
+**Tech:** MERN / Next.js, MongoDB  
+🔗 https://github.com/opurbo007/Finance-tracker
 
 ---
 
