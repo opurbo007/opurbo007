@@ -1,0 +1,8 @@
+# Ignore generated / vendor code
+node_modules/ linguist-vendored
+dist/ linguist-vendored
+build/ linguist-vendored
+
+# Force-ignore Hack
+*.php linguist-detectable=false
+*.hack linguist-detectable=false
