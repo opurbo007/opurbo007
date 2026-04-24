@@ -63,7 +63,7 @@ const mySelf = {
 
 ---
 
-## 📊 GitHub Stats
+## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="22"/> Git Stats
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=opurbo007&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9&rank_icon=github" />
