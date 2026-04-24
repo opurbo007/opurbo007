@@ -76,7 +76,7 @@ const mySelf = {
 
 ---
 
-## 🏆 GitHub Trophies
+## 🧠 Contribution Graph
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=opurbo007&theme=tokyo-night&hide_border=true" />
