@@ -17,14 +17,14 @@
 ## 🧬 About Me
 
 ```ts
-const dev = {
-  name:     "Opu Pal",
-  role:     "Full-Stack Software Developer",
-  stack:    ["MERN , "Next.js" , "Electron"],
+const mySelf = {
+  name: "Opu Pal",
+  role: "Full-Stack Software Developer",
+  stack: ["MERN", "Next.js", "Electron"],
   location: "🌍 Dhaka",
-  focus:    ["Scalable APIs", "Modern UIs", "DX Tooling"],
+  focus: ["Scalable APIs", "Modern UIs", "DX Tooling"],
   database: ["MongoDB", "PostgreSQL"],
-  status:   "Open to opportunities 🟢",
+  status: "Open to opportunities 🟢",
 };
 ```
 
@@ -79,7 +79,7 @@ const dev = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=opurbo007&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=opurbo007&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7&cache_seconds=86400" />
 </div>
 
 ---
@@ -88,8 +88,9 @@ const dev = {
 
 <div align="center">
 
-[![Card](https://github-readme-stats.vercel.app/api/pin/?username=opurbo007&repo=YOUR_REPO_1&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA)](https://github.com/opurbo007/prize-bond-checker)
-[![Card](https://github-readme-stats.vercel.app/api/pin/?username=opurbo007&repo=YOUR_REPO_2&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA)](https://github.com/opurbo007/Finance-tracker)
+[![Card](https://github-readme-stats.vercel.app/api/pin/?username=opurbo007&repo=prize-bond-checker&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA)](https://github.com/opurbo007/prize-bond-checker)
+
+[![Card](https://github-readme-stats.vercel.app/api/pin/?username=opurbo007&repo=Finance-tracker&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA)](https://github.com/opurbo007/Finance-tracker)
 
 </div>
 
