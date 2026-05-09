@@ -89,9 +89,9 @@ const mySelf = {
 
 <div align="center">
 
-[![Prize Bond Checker](https://image.thum.io/get/width/600/crop/400/https://bondwallet.vercel.app/)](https://bondwallet.vercel.app/)
+[![Prize Bond Checker](https://api.microlink.io/?url=https://bondwallet.vercel.app&screenshot=true&meta=false&embed=screenshot.url)](https://bondwallet.vercel.app/)
 
-[![Finance Tracker](https://image.thum.io/get/width/600/crop/400/https://trackerfi.vercel.app/)](https://trackerfi.vercel.app/)
+[![Finance Tracker](https://api.microlink.io/?url=https://trackerfi.vercel.app&screenshot=true&meta=false&embed=screenshot.url)](https://trackerfi.vercel.app/)
 
 </div>
 
