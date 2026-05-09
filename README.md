@@ -89,8 +89,9 @@ const mySelf = {
 
 <div align="center">
 
-[![Card](https://gh-card.dev/repos/opurbo007/prize-bond-checker.svg?fullname=1&link=1)](https://github.com/opurbo007/prize-bond-checker)
-[![Card](https://gh-card.dev/repos/opurbo007/Finance-tracker.svg?fullname=1&link=1)](https://github.com/opurbo007/Finance-tracker)
+[![Prize Bond Checker](https://image.thum.io/get/width/600/crop/400/https://bondwallet.vercel.app/)](https://bondwallet.vercel.app/)
+
+[![Finance Tracker](https://image.thum.io/get/width/600/crop/400/https://trackerfi.vercel.app/)](https://trackerfi.vercel.app/)
 
 </div>
 
