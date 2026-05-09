@@ -89,9 +89,12 @@ const mySelf = {
 
 <div align="center">
 
-[![Prize Bond Checker](https://api.microlink.io/?url=https://bondwallet.vercel.app&screenshot=true&meta=false&embed=screenshot.url)](https://bondwallet.vercel.app/)
-
-[![Finance Tracker](https://api.microlink.io/?url=https://trackerfi.vercel.app&screenshot=true&meta=false&embed=screenshot.url)](https://trackerfi.vercel.app/)
+<a href="https://bondwallet.vercel.app/">
+  <img width="48%" src="https://api.microlink.io/?url=https://bondwallet.vercel.app&screenshot=true&meta=false&embed=screenshot.url" alt="Prize Bond Checker"/>
+</a>
+<a href="https://trackerfi.vercel.app/">
+  <img width="48%" src="https://api.microlink.io/?url=https://trackerfi.vercel.app&screenshot=true&meta=false&embed=screenshot.url" alt="Finance Tracker"/>
+</a>
 
 </div>
 
