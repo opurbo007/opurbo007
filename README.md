@@ -69,10 +69,6 @@ const mySelf = {
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=opurbo007&theme=tokyonight" />
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=opurbo007&theme=tokyonight" />
 </div>
-<div align="center">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=opurbo007&theme=tokyonight" />
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=opurbo007&theme=tokyonight" />
-</div>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=opurbo007&theme=tokyonight&hide_border=true&background=0d1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" />
@@ -93,9 +89,8 @@ const mySelf = {
 
 <div align="center">
 
-[![Card](https://github-readme-stats.vercel.app/api/pin/?username=opurbo007&repo=prize-bond-checker&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA)](https://github.com/opurbo007/prize-bond-checker)
-
-[![Card](https://github-readme-stats.vercel.app/api/pin/?username=opurbo007&repo=Finance-tracker&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA)](https://github.com/opurbo007/Finance-tracker)
+[![Card](https://gh-card.dev/repos/opurbo007/prize-bond-checker.svg?fullname=1&link=1)](https://github.com/opurbo007/prize-bond-checker)
+[![Card](https://gh-card.dev/repos/opurbo007/Finance-tracker.svg?fullname=1&link=1)](https://github.com/opurbo007/Finance-tracker)
 
 </div>
 
